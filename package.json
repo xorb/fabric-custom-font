@@ -1,0 +1,13 @@
+{
+  "name": "test-font",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Dany Boza",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "fabric": "^5.2.1"
+  }
+}
