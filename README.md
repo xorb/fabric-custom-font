@@ -1,6 +1,13 @@
-Fabric Custom Font
+Node Canvas Custom Font
 
 ```
 npm install
-npm start
+npm run node-canvas
+```
+
+Fabric Canvas Custom Font
+
+```
+npm install
+npm run fabric-canvas
 ```
